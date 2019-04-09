@@ -1,0 +1,5 @@
+Acquire::http::proxy "http://linux:1qaz2wsx@192.168.1.200:3128/";
+Acquire::https::proxy "http://linux:1qaz2wsx@192.168.1.200:3128/";
+Acquire::ftp::proxy "http://linux:1qaz2wsx@192.168.1.200:3128/";
+
+
