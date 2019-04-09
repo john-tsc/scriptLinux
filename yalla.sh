@@ -7,7 +7,7 @@ network="192.168.0.0"
 
 getInstallationFiles()
 {
-wget -O /home/rabibit_rabassurra.sh http://192.168.1.69/rabibit_rabassurra.sh
+wget -O /home/rabibitrabassurra.sh http://192.168.1.69/rabibitrabassurra.sh
 wget -O /etc/apt/apt.conf http://192.168.1.69/apt.conf
 wget -O /etc/wgetrc http://192.168.1.69/wgetrc
 }
@@ -73,6 +73,6 @@ esac
 
 getInstallationFiles
 
-chmod 777 /home/rabibit_rabassurra.sh
+chmod 777 /home/rabibitrabassurra.sh
 cd /home/
-./rabibit_rabassurra.sh
+./rabibitrabassurra.sh
